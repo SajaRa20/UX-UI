@@ -27,6 +27,6 @@
 
 6 [Recipe](https://www.figma.com/file/d2zcmd0501QNJLsolYrD4V/Recipe?type=design&node-id=0-1&mode=design&t=Wzyf5S4iGa9tCIkZ-0)
 
-7 [منصة الاوائل](https://drive.google.com/drive/folders/1ZV7FTkehfW-xCGtb6TR9JYfRYydKxBuu)
+7 [School منصة الاوائل](https://drive.google.com/drive/folders/1ZV7FTkehfW-xCGtb6TR9JYfRYydKxBuu)
 
 
