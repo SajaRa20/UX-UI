@@ -12,3 +12,19 @@
 [Recipe](https://www.figma.com/file/d2zcmd0501QNJLsolYrD4V/Recipe?type=design&node-id=0-1&mode=design&t=Wzyf5S4iGa9tCIkZ-0)
 
 [منصة الاوائل](https://drive.google.com/drive/folders/1ZV7FTkehfW-xCGtb6TR9JYfRYydKxBuu)
+
+
+# **:white_tick:UX-UI**
+## :star2:Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [project link ](#project-link )
+## :star2:General info
+**:female-technologist:This readmy is a sample of  my UI/UX  projects**
+	
+## :star2:Technologies
+### Project is created with:
+* Figma
+* Palsamiq wireframes
+	
+## :star2:project link
