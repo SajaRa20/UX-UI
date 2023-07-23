@@ -1,6 +1,6 @@
 
 
-# **:white_tick:UX-UI**
+# UX-UI
 ## :star2:Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
